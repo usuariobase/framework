@@ -5,7 +5,7 @@
   <artifactId>fwktd</artifactId>
   <version>0.7</version>
   <packaging>pom</packaging>
-  <name>Modulo lanzador del fwktd</name>
+  <name>Modulo lanzador</name>
 
   <inceptionYear>2000</inceptionYear>
 
